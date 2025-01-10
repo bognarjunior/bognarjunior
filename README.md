@@ -1,5 +1,5 @@
 
-Olá, eu sou o **Bognar** 
+Olá, eu sou o José Roberto Bognar Junior, vulgo **Bognar** 
 
 Tech Manager | Tech Lead | Especialista em Inovação e Desenvolvimento de Equipes de Alta Performance
 
