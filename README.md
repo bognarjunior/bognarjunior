@@ -8,7 +8,7 @@ Apaixonado por Javascript e seus frameworks, com uma quedinha por IOS com Swift 
 #### Skills
 
 * **Frontend Development:** JavaScript (React, React Native), Swift (iOS development)
-* **Backend Development:** Node, PHP, Java
+* **Backend Development:** Node
 * **Game Development:** GML (Game Maker)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
